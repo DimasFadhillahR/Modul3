@@ -16,3 +16,4 @@ untuk pembuatan route adalah web.php.
 ## Soal 2 Buatlah halaman tambah data di setiap route
 
 ![image](https://user-images.githubusercontent.com/109930422/182088555-103b32e7-765b-4497-b090-d5c074250074.png)
+a
