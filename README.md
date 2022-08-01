@@ -20,3 +20,6 @@ menjalankan website yang akan di buat.
 
 ![image](https://user-images.githubusercontent.com/109930422/182088555-103b32e7-765b-4497-b090-d5c074250074.png)
 
+dan jika hasil seperti gambar di bawah ini maka anda tidak mengalami error
+
+
