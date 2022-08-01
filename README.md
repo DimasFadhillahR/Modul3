@@ -41,3 +41,39 @@ Kemudian masukan code ```php artisan make:controller BarangController```
 
 Langkah 5
 
+Masukan code seperti gambar di bawah ini
+
+![image](https://user-images.githubusercontent.com/109930422/182093039-ab9015e0-7472-4dd3-a742-bb8112f07b9a.png)
+
+Langkah 6
+
+setelah itu kita akan membuat controller bagian kategori untuk di isi data
+
+![image](https://user-images.githubusercontent.com/109930422/182096068-63a72deb-600c-437c-af33-57560d11f8e9.png)
+
+Langkah 7
+
+Kemudian masukan code seperti di bawah ini
+
+![image](https://user-images.githubusercontent.com/109930422/182096222-c2d659dc-21ec-4af5-af79-cffcbe1ed2b1.png)
+
+Langkah 8
+
+Setelah itu copy bagian link server pada bagian bawah
+
+![image](https://user-images.githubusercontent.com/109930422/182096976-38dcacc6-c6fb-44a3-a823-9ea9e1a1d3df.png)
+
+Langkah 9
+
+Ini adalah hasil dari program yang di atas tadi
+
+
+![image](https://user-images.githubusercontent.com/109930422/182097120-cff38b71-21f1-47f6-bb11-7593b63cca14.png)
+
+![image](https://user-images.githubusercontent.com/109930422/182097159-8f7f82df-1694-48fd-86f8-4c4610eb016c.png)
+
+![image](https://user-images.githubusercontent.com/109930422/182097187-cbab39e4-e642-4722-8c7b-f7c620839a3d.png)
+
+![image](https://user-images.githubusercontent.com/109930422/182097241-6f3c7923-2654-42a3-bdcb-11a134b8d0f0.png)
+
+# Sekian dari saya trimakasih
