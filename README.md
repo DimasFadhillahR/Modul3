@@ -76,4 +76,4 @@ Ini adalah hasil dari program yang di atas tadi
 
 ![image](https://user-images.githubusercontent.com/109930422/182097241-6f3c7923-2654-42a3-bdcb-11a134b8d0f0.png)
 
-# Sekian dari saya trimakasih
+# Sekian Dari Saya Trimakasih
